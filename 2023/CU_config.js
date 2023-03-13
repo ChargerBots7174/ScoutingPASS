@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023mibel",
+      "defaultValue": "2023midtr",
       "required": "true",
       "disabled": "true"
     },
