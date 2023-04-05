@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023mibel",
+      "defaultValue": "2023micmp1",
       "required": "true",
       "disabled": "true"
     },
