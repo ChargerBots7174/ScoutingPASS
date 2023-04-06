@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023micmp1",
+      "defaultValue": "2023micmp3",
       "required": "true",
       "disabled": "true"
     },
