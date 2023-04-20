@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023micmp3",
+      "defaultValue": "2023ARC",
       "required": "true",
       "disabled": "true"
     },
