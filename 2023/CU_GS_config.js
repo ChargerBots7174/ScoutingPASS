@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023ARC",
+      "defaultValue": "2023CMPTX",
       "required": "true",
       "disabled": "true"
     },
